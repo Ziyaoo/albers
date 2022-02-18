@@ -1,0 +1,27 @@
+body{
+  background-color: black;
+  padding-top: 100px;
+}
+
+
+section{
+  background-color: wheat;
+  height:600px;
+  width:600px;
+  margin:0 auto;
+  padding:50%;
+}
+
+section > div{
+  background-color: blue;
+
+}
+
+div :{
+  height: 100%;
+  width:100%;
+}
+
+section > div > div {
+  background: gold;
+}
